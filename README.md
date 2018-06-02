@@ -1,0 +1,2 @@
+# ecoin-generator
+ecoin
